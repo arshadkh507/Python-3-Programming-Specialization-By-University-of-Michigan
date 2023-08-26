@@ -13,6 +13,9 @@ The square and round brackets denote closed and open intervals. A closed interva
 """
 
 #  ! Solution
+"""
+
+"""
 
 
 # ======================================================
@@ -83,11 +86,30 @@ dateofeaster = 22 + d + e
 # Special note: The algorithm can give a date in April. You will know that the date is in April if the calculation gives you an answer greater than 31. (You’ll need to adjust) Also, if the year is one of four special years (1954, 1981, 2049, or 2076) then subtract 7 from the date.
 # Your program should print an error message if the user provides a date that is out of range.
 
+
+"""
+
+"""
+
+
 # ======================================================
 # Get the user to enter some text and print out True if it’s a palindrome, False otherwise. (Hint: Start by reversing the input string, and then use the == operator to compare two values to see if they are the same)
+
+
+"""
+
+"""
 
 # ======================================================
 # Write a program that will print out a greeting to each student in the list. This list should also keep track of how many students have been greeted and note that each time a new student has been greeted. When only one student has entered, the program should say “The first student has entered!”. Afterwards, the program should say “There are {number here} students in the classroom!”.
 
+"""
+
+"""
 
 # ======================================================
+#
+
+"""
+
+"""
